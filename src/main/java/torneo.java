@@ -5,7 +5,8 @@
 
 /**
  *
- * @author B045_09
+* @see 
+ * @author thomas
  */
 public class torneo {
     
